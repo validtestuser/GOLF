@@ -2,3 +2,6 @@ Packing list
 -----------
 - Shoes
 - Pot
+Picnic
+-----------
+- Beers
